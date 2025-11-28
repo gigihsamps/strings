@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Science+Gothic:wght@100..900&display=swap');
 
 :root {
-    --cor-destaque: #6d0470;
+    --cor-destaque: #a432a8;
     --cor-gradiente-preto: linear-gradient(113deg, #4772b3 0%, #4772b3 44.96%, #4772b3 100%);
 }
 
@@ -16,7 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 16px 21px 18px 21px;
-    background: var(--cor-gradiente-preto);
+    background: url('img/whays-r-raps-opinion-about-lil-peep-v0-3o19s5eooqsa1.webp');
     height: 100vh;
     flex-direction: column;
 }
